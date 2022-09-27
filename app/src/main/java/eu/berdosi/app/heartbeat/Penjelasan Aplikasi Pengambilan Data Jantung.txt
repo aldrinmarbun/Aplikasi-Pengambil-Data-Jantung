@@ -1,0 +1,6 @@
+Cara pemakaian aplikasi pengambilan data jantung
+1. Extract semua file ke android studio terlebih dahulu atau IDE lainnya untuk menjalankan program
+2. Masuk ke file app > src/main > heartbeat (Untuk edit kodingan bisa disini. Ada dari CameraService.java sampai OutputAnalyzer.java
+3. Sambungkan hp ke desktop atau download apk untuk menjalankan aplikasinya
+4. Log in di aplikasi 
+5. Taroh jari telunjuk di belakang kamera
